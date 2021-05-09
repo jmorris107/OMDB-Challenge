@@ -49,22 +49,7 @@ const App = () => {
 
   };
 
-  // useEffect(() => {
-  //   if (setNominate.length === 5) {
-  //     store.addNotification({
-  //       message: "You've nominated five films",
-  //       type: "default",
-  //       insert: "top",
-  //       container: "top-center",
-  //       animationIn: ["animated", "fadeIn"],
-  //       animationOut: ["animated", "fadeOut"],
-  //       dismiss: {
-  //         duration: 3000,
-  //         onScreen: true
-  //       }
-  //     })
-  //   }
-  // }, [setNominate])
+  
 
 
 
