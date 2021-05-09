@@ -6,8 +6,6 @@ import MovieListHeading from './components/MovieListHeading';
 import SearchBox from './components/SearchBox';
 import AddNominate from './components/AddNominate';
 import RemoveNominate from './components/RemoveNominate';
-// import ReactNotification from 'react-notifications-component';
-// import { store } from 'react-notifications-component';
 
 const App = () => {
   const [movies, setMovies] = useState([]);
