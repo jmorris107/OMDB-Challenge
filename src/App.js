@@ -6,8 +6,8 @@ import MovieListHeading from './components/MovieListHeading';
 import SearchBox from './components/SearchBox';
 import AddNominate from './components/AddNominate';
 import RemoveNominate from './components/RemoveNominate';
-import ReactNotification from 'react-notifications-component';
-import { store } from 'react-notifications-component';
+// import ReactNotification from 'react-notifications-component';
+// import { store } from 'react-notifications-component';
 
 const App = () => {
   const [movies, setMovies] = useState([]);
@@ -51,22 +51,22 @@ const App = () => {
 
   };
 
-  useEffect(() => {
-    if (setNominate.length === 5) {
-      store.addNotification({
-        message: "You've nominated five films",
-        type: "default",
-        insert: "top",
-        container: "top-center",
-        animationIn: ["animated", "fadeIn"],
-        animationOut: ["animated", "fadeOut"],
-        dismiss: {
-          duration: 3000,
-          onScreen: true
-        }
-      })
-    }
-  }, [setNominate])
+  // useEffect(() => {
+  //   if (setNominate.length === 5) {
+  //     store.addNotification({
+  //       message: "You've nominated five films",
+  //       type: "default",
+  //       insert: "top",
+  //       container: "top-center",
+  //       animationIn: ["animated", "fadeIn"],
+  //       animationOut: ["animated", "fadeOut"],
+  //       dismiss: {
+  //         duration: 3000,
+  //         onScreen: true
+  //       }
+  //     })
+  //   }
+  // }, [setNominate])
 
 
 
