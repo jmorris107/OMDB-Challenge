@@ -1,29 +1,17 @@
 {
-  "name": "OMDB-Challenge",
+  "name": "OMBD-Challenge",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.12.0",
-    "@testing-library/react": "^11.2.6",
-    "@testing-library/user-event": "^12.8.3",
-    "bootstrap": "^5.0.0",
-    "browserslist": "^4.16.6",
-    "build": "^0.1.4",
-    "development": "0.0.6",
-    "dom": "0.0.3",
-    "extends": "0.0.4",
-    "jquery": "^3.6.0",
-    "module": "^1.2.5",
-    "node": "^16.1.0",
-    "node.js": "0.0.1-security",
-    "production": "0.0.2",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-script": "^2.0.5",
-    "react-scripts": "4.0.3",
-    "script": "^0.1.4",
-    "start": "^5.1.0",
-    "web-vitals": "^1.1.2"
+    "@testing-library/jest-dom": "^5.11.8",
+    "@testing-library/react": "^11.2.3",
+    "@testing-library/user-event": "^12.6.0",
+    "query-string": "^6.13.8",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.1",
+    "web-vitals": "^0.2.4"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -48,8 +36,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "@angular/cli": "^11.2.12"
   }
 }
