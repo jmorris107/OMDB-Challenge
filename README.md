@@ -1,5 +1,6 @@
 # OMDB NOMINATE
 
+Unfortunately, I could not deploy this application. It is available on http://localhost:3000.
 
 The Challenge
 
