@@ -7,8 +7,8 @@
   - [Requirements](#Requirements)
   - [Extra](#Extra)
 
-  ![Movie Nomination video](img/Movie.gif) 
-  [Movie Nomination](img/Movie.jpg) 
+  ![Movie Nomination video](/img/Movie.gif) 
+  ![Movie Nomination](/img/Movie.jpg) 
 
 # Usage
 
@@ -51,8 +51,7 @@ If you need inspiration, here are examples of what you can work on. If you work 
 
 
 # Links
-:atom_symbol: [Heroku](https://google-books-search-jennifer.herokuapp.com/)<br />
-:octocat: Github [Repo](https://github.com/jmorris107/Google-Books-Search.github.io) / [Account](https://github.com/)<br />
+:octocat: Github [Repo](https://github.com/jmorris107/OMDB-Challenge.github.io) / [Account](https://github.com/)<br />
 📃 [My Potfolio](https://react-portfolio-jennifer.herokuapp.com/) 
 <br />
   
