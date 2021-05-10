@@ -7,8 +7,8 @@
   - [Requirements](#Requirements)
   - [Extra](#Extra)
 
-  ![Movie Nomination video](/img/Movie.gif) 
-  ![Movie Nomination](/img/Movie.jpg) 
+  ![Movie Nomination video](public/img/Movie.gif) 
+  ![Movie Nomination](public/img/Movie.jpg) 
 
 # Usage
 
